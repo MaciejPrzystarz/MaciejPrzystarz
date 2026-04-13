@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @MaciejPrzystarz
-- 🌱 I’m currently learning Java
-- 🎯 Most important skills i have learned: Spring MVC, Thymeleaf • Spring Data, Hibernate • HTML, CSS • MySQL, H2 • Java
-- 🏠 I’m living in Wrocław, Poland
-- 📫 How to reach me -> maciej.przystarz7@gmail.com
+- Hi, I’m @MaciejPrzystarz
+- I’m currently building barber website for my brother
+- Most important skills i have learned: Spring MVC, Thymeleaf • Spring Data, Hibernate • HTML, CSS • MySQL, H2 • Java
+- I’m living in Wrocław, Poland
+- How to reach me -> maciej.przystarz7@gmail.com
 
 If u want to know more about me here is my linkedin profile:
 https://www.linkedin.com/in/maciej-przystarz/
