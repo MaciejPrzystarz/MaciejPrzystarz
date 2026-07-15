@@ -1,7 +1,7 @@
 ### Hi, I'm Maciej
 
 **Junior Java Developer** based in Wrocław, Poland - building backend applications with Spring Boot.
-Open to **Java Intern** and **Junior Software Developer** roles in the IT industry.
+Open to **Software Developer** roles in the IT industry.
 
 ---
 
@@ -17,20 +17,19 @@ A production-ready barber salon booking platform with three role-based dashboard
 
 #### Tech I work with
 
-**Backend** - Java 21, Spring Boot, Spring MVC, Spring Security, Spring Data JPA, Hibernate, REST APIs
+**Backend** - Java 21, Spring Boot, Spring MVC, Spring Security, Spring Data JPA, Hibernate
 **Database** - PostgreSQL, H2, SQL
 **Testing** - JUnit 5, Mockito, AssertJ
-**Tools** - Maven, Docker (multi-stage), Git, IntelliJ IDEA, Checkstyle
+**Tools** - Maven, Docker , Git, IntelliJ IDEA, Checkstyle
 **Frontend** - Thymeleaf, Bootstrap, HTML, CSS
 
 ---
 
 #### Currently learning
 
-- Flyway / Liquibase for schema migrations
-- Spring Boot Test + Testcontainers for integration testing
-- Deeper REST API design and security patterns
-
+- Flyway for schema migrations
+- Angular framework
+  
 ---
 
 #### Contact
